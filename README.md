@@ -21,4 +21,5 @@ To spread awareness about NGO initiatives, projects, and social impact through a
 Heena
 
  ## screenshot
- ![Uploading Screenshot 2026-05-25 163535.png…]()
+ <img width="1920" height="1076" alt="Screenshot 2026-05-25 163535" src="https://github.com/user-attachments/assets/01bea740-22b0-4423-bf07-7fc0a68819d1" />
+
