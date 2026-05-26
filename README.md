@@ -1,6 +1,6 @@
 # NGO Awareness Webpage 🌍
 
-This project is created as part of Task 1 for the InAmigos Foundation Internship Program.
+This project is created as part of Internship Program.
 
 ## Objective
 To spread awareness about NGO initiatives, projects, and social impact through a simple and responsive webpage.
